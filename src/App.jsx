@@ -1,13 +1,16 @@
-import './App.css'
+import "./App.css";
+import NavbarComponent from "../components/navbar/NavbarComponent.jsx";
+import ItemListContainer from "../components/ItemListContainer.jsx";
+
 
 function App() {
-  
-
   return (
     <>
-     <h1 className='titulo'>HOLA MUNDO</h1>
+    
+      <NavbarComponent color="black"  />
+      <ItemListContainer greeting="¡Hola a todos!"/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
