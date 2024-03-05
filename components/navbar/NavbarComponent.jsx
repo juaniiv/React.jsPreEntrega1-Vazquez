@@ -11,7 +11,7 @@ export default function NavbarComponent({ color }) {
           <a href="#" className="brand-logo">
             <img
               src="../img/cartoon_animal_dog_animals_cute_icon_260626.svg"
-              alt=""
+              alt="Logo de perro"
             />
           </a>
           <ul id="nav-mobile" className="right hide-on-med-and-down">
@@ -27,7 +27,7 @@ export default function NavbarComponent({ color }) {
             <li>
               <CartWidgetComponent />
             </li>
-            <li>1</li>
+            <li>5</li>
           </ul>
         </div>
       </nav>

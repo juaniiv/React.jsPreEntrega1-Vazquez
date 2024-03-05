@@ -7,7 +7,8 @@ function App() {
   return (
     <>
     
-      <NavbarComponent color="black"  />
+      <NavbarComponent color="black" />
+      <h1>PetFood</h1>
       <ItemListContainer greeting="¡Hola a todos!"/>
     </>
   );

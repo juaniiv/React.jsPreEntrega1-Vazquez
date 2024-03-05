@@ -13,4 +13,11 @@ width: 50px;
     padding: 2px 6px;
     margin-left: 4px;
   }
+  h1{
+    text-align: center;
+  }
+  h2{
+    background-color:darkgreen;
+    color: aliceblue;
+  }
   

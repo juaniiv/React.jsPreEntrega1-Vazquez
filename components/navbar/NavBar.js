@@ -19,7 +19,7 @@ const NavbarComponent = ({ color, tamaño }) => {
             <li><a href="sass.html">Productos</a></li>
             <li><a href="badges.html">Contacto</a></li>
             <li><CartWidget /></li>
-            <li>1</li>
+            <li>5</li>
           </ul>
         </div>
       </nav>
